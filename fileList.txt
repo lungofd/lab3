@@ -1,5 +1,5 @@
 https://raw.githubusercontent.com/lungofd/lab3/master/canucksPostGameSept28.txt
-https://cdn.rawgit.com/lungofd/lab3/cfd75215/darrenArchibald.txt
-https://rawgit.com/lungofd/lab3/master/sven.txt
-https://cdn.rawgit.com/lungofd/lab3/7e181e1c/upshall.txt
+https://cdn.jsdelivr.net/gh/lungofd/lab3@cfd75215/darrenArchibald.txt
+https://cdn.jsdelivr.net/gh/lungofd/lab3/sven.txt
+https://cdn.jsdelivr.net/gh/lungofd/lab3@7e181e1c/upshall.txt
 
